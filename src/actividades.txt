@@ -1,0 +1,4 @@
+1;Ponencia Fisica;Javier Montano Ruiz;Pilar Martinez Jimnez;01/01/22;Se impartirá una ponencia de fisica;20;15
+2;Seminario Matemáticas;Javier Montano Ruiz;Nicolai Andreev;01/01/22;Seminario con el experto Nicolai en el área de Matemáticas;25;20
+3;Taller Github;Javier Montano Ruiz;Mark Zuckerberg;01/01/22;Taller con el especialista Mark en Github;13;39.99
+4;Congreso SalmorejoTech;Javier Montano Ruiz;Alvaro Perea Fernandez;01/01/22;Congreso Tecnologico con empresas;45;10

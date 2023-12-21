@@ -1,0 +1,6 @@
+12345678A;Javier;Montano Montano;156;madrid;i22moruj@uco.es;0;1;0
+12345678B;Sergio;Sampedre Saus;19;Cordoba;i22sagus@uco.es;0;2;0
+12345678C;David;Garcia Peragon;25;Cordoba;i93gaped@uco.es;0;3;0
+12345678D;Alba;Gomez Munoz;23;Cordoba;i34gomua@uco.es;0;3;0
+12345678E;Marta;Montano Ruiz;18;Corodoba;i12morum@uco.es;0;3;0
+12345678F;Rafael;Montano Barrera;53;Corodoba;i53mobar@uco.es;3;3;2
